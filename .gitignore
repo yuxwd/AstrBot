@@ -64,3 +64,6 @@ GenieData/
 .worktrees/
 
 dashboard/bun.lock
+
+#claude
+CLAUDE.md
